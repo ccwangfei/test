@@ -8,5 +8,8 @@ public class Test1 {
 		System.out.println("test");
 		
 		System.out.println("main......case");
+
+		//V2£¬ºÏ²¢ºó
+		System.out.println("ccwangfei");
 	}
 }
